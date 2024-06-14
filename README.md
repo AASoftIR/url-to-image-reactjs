@@ -19,8 +19,8 @@ This is a simple React application that allows users to input a URL and display 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AASoftIR/react-image-viewer.git
-   cd react-image-viewer
+   git clone https://github.com/AASoftIR/url-to-image-reactjs.git
+   cd url-to-image-reactjs
    ```
 
 2. Install dependencies:
