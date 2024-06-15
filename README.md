@@ -2,17 +2,26 @@
 
 This is a simple React application that allows users to input a URL and display the corresponding image. The application uses React and Styled Components for styling.
 
+## 🖥️ Technology Used
+## LIVE AT: [Vercel](https://url-to-img-reactjs.vercel.app)
+This project leverages the following technologies:
+
+### - **React.js**
+
+### - **Vite**
+
+### - **Styled Components**
+
+### - **HTML5**
+
+## 🚀 Features
+
 ## ✨ Features
 
 - 🔗 Input a URL to display its corresponding image
 - ⏳ Loading spinner while the image is being fetched
 - 📱 Responsive and modern UI
 - 💅 Styled with Styled Components
-
-## 🛠️ Technologies Used
-
-- ⚛️ React
-- 💅 Styled Components
 
 ## 📦 Installation
 
